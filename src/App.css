@@ -6,3 +6,32 @@
   display: flex;
   justify-content: space-evenly;
 }
+
+.signup-div {
+  width: 50vh;
+  height: 30vh;
+  background-color: bisque;
+  border-style: solid;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+}
+
+.signup-form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.input {
+  width: 20vh;
+}
+
+.label {
+  margin-top: 20px;
+}
+
+.signup-btn {
+  margin-top: 10px;
+}
